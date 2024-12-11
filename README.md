@@ -1,6 +1,10 @@
 # Open WebUI Collections
 
-A curated collection of tools and functions to enhance your Open WebUI experience. This repository contains various extensions that can be integrated with Open WebUI to extend its functionality and capabilities.
+A collection of custom tools and extensions for Open WebUI that enhance its capabilities through advanced features like RAG (Retrieval-Augmented Generation). This repository provides ready-to-use components for implementing memory management and context-aware responses using Pinecone vector database, allowing you to build more intelligent and context-aware chatbot applications.
+
+## Support the Project
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/aahadr)
 
 ## Currently Available Collections
 
