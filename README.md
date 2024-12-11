@@ -16,6 +16,18 @@ A curated collection of tools and functions to enhance your Open WebUI experienc
    - Purpose: Retrieves stored information from Pinecone based on context similarity
    - Integration: Implements custom RAG (Retrieval-Augmented Generation) functionality
 
+### Web Interaction Tools
+
+1. **Better Web Scrape**
+   - File: `tools/better_web_scrape.py`
+   - Purpose: Enhanced web scraping functionality using Jina service
+   - Integration: Enables efficient extraction of web content for processing
+
+2. **YouTube Transcript Tools**
+   - File: `tools/youtube_transcript_tools.py`
+   - Purpose: Extract and process YouTube video transcripts
+   - Integration: Allows working with YouTube video content through transcripts
+
 ## Understanding RAG (Retrieval-Augmented Generation)
 
 RAG (Retrieval-Augmented Generation) is a powerful approach that combines the capabilities of large language models with the ability to access and utilize external knowledge bases. By implementing RAG, you can enhance your AI applications with accurate, up-to-date, and contextually relevant information, while maintaining control over the knowledge that influences the model's responses.
